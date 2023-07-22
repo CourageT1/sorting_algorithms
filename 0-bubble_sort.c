@@ -39,7 +39,7 @@ for (pass = 0; pass < size - 1; pass++)
 			swapped = false;
 		}
 	}
-	if(!swapped)
+	if (!swapped)
 		pass--;
 }
 }
